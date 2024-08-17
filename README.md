@@ -1,4 +1,4 @@
-# Q24_2
+
 
 # qi24_02
 ## Utilizing HHL (Harrow-Hassidim-Lloyd) to solve wave equations
